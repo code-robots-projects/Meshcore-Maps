@@ -1,34 +1,17 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Dear end user.
 
+These are created for you to do with what you will, at your own risk! 
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+If they break your machine it’s not my fault! 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+T-Decks use 256 x 256 .PNG slippy tiles to generate maps and for free on the Ripple app you can zoom to level 8, which is ok but not great.
 
-(* = Not included)
+As I write I received the T-Decks two days ago and was dismayed to find no easily available maps so I made my own.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+I have paid to unlock one of my devices but as yet, have not received the unlock code. I believe these should zoom between OSM levels 5 and 14.
 
-AJ
-aj@lkn.io | @ajlkn
+They are created in the OpenTopo style, my primary interest is SAR.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Gary
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+14/12/2025
